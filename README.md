@@ -1,1 +1,1 @@
-# M-nimosCuadrados--lgebraLineal
+# MinimosCuadrados-AlgebraLineal
